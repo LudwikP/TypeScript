@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outDir": "./dist",
+        "target": "ES3",
+        "module": "commonjs"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
