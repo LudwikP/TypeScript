@@ -2,8 +2,9 @@
     "compilerOptions": {
         "rootDir": "./src",
         "outDir": "./dist",
-        "target": "ES3",
-        "module": "commonjs"
+        "module": "commonjs",
+        "target": "ES2015"
+        
     },
     "exclude": [
         "node_modules"
